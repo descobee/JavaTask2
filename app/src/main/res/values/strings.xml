@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Java Task 2</string>
+    <string name="details">Name: Orodu Derek\nSlack ID: descobee\nEmail: descobillybilly@gmail.com</string>
+    <string name="likes"><b>\nLikes:\n</b>1. Honesty\n2. Proper Communication\n3. Neatness\n4. Fashion\n5. Intelligence</string>
+    <string name="dislikes"><b>Dislikes:</b>\n1. Poor Communication\n2. Lack of Progress\n3. Smoking</string>
+    <string name="hobbies"><b>Hobbies:\n</b>1. Gaming\n2. Communicating/Socialising\n3. Learning\n4. Cleaning</string>
+</resources>
+
